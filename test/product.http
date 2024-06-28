@@ -10,6 +10,7 @@ Content-Type: application/json
 ###
 
 GET http://localhost:8080/products HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTk0NDE0NjYsInN1YiI6IjkxMWE0NjdlLWQ4NDctNGMyMi04ODJhLTMwZjQ1YmEwNGJhNSJ9.8kFlEw0KYOvD9bv3RmEbGaFEnKOeeqAzTRlixzQ7au4
 
 ###
 
