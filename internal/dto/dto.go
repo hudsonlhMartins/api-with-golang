@@ -19,3 +19,8 @@ type CreateJwtInput struct {
 type GetJWTOutput struct {
 	AccessToken string `json:"access_token"`
 }
+
+type GetJWTInput struct {
+	Email    string `json:"email"`
+	Password string `json:"password"`
+}
